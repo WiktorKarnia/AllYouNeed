@@ -4,7 +4,7 @@ import { ToastContainer, toast } from "react-toastify";
 import UserContext from "./contexts/userContext";
 import "./App.css";
 import Navbar from "./Components/Navbar/Navbar";
-import Routing from "./Components/Routing/routing";
+import Routing from "./Components/Routing/Routing";
 import { getJwt, getUser } from "./services/userServices";
 import setAuthToken from "./utils/setAuthToken";
 import {
