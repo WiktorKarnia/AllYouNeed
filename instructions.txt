@@ -1,0 +1,10 @@
+go into cartwish backend
+npm install
+node products.js
+node index.js
+
+
+go into ECommerceApp
+cd AllYouNeed
+npm install
+npm run dev
